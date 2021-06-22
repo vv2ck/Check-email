@@ -1,5 +1,6 @@
 # Check-email
 The tool s function is to check e-mail on 3 sites of your choice, example:
+-
 • instagram
 
 • gmail
